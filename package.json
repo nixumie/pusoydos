@@ -1,0 +1,11 @@
+{
+  "name": "pusoydos",
+  "description": "A simple Telegram bot made with botgram for Pusoy Dos card game",
+  "version": "0.0.1",
+  "dependencies": {
+    "botgram": "^2.2.0"
+  },
+  "engines": {
+    "node": "13.x"
+  }
+}
